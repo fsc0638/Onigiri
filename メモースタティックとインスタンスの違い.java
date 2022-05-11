@@ -9,7 +9,7 @@ public class メモースタティックとインスタンスの違い {
 //	實作方法instance method
 //	
 //-----table-----
-//					｜靜態成員static member      	｜實作成員instance member
+//			｜靜態成員static member      	    ｜實作成員instance member
 //--------------------------------------------------------------------------
 //種類				｜靜態區域變數、靜態方法			｜實作變數、實作方法  
 //特徵				｜有static				｜無static
